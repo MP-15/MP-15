@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mani Paliwal</h1>
 <h3 align="center">Turning ideas into functional solutions with code</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFmNjJiYzg0MWFiYjdjODY1MDFhYTE0ZTQ1OGNiZTJjYTVmZmRlNiZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mp-15&label=Profile%20views&color=0e75b6&style=flat" alt="mp-15" /> </p>
 
 
