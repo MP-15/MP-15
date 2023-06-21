@@ -9,11 +9,13 @@
 
 
 
-- 🔭 I’m currently working on **Domain Integrated Project(Cloud+AI_IOT)**
+- 🔭 I’m currently working on **Domain Integrated Projects**
 
-- 🌱 I’m currently learning **Java, Python, DevOps, React, Front-end Development**
+- 🌱 I’m currently learning **Java, Python, DevOps, React, Web Development**
 
 - 👨‍💻 My LinkedIn [https://www.linkedin.com/in/mani-paliwal-699a15206](https://www.linkedin.com/in/mani-paliwal-699a15206)
+
+- 📫 Available For FreeLance Work  
 
 - 📫 How to reach me **mani.paliwal.orai@gmail.com**
 
