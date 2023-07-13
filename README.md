@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Domain Integrated Projects**
 
-- 🌱 I’m currently learning **Java, Python, DevOps, React, Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 My LinkedIn [https://www.linkedin.com/in/mani-paliwal-699a15206](https://www.linkedin.com/in/mani-paliwal-699a15206)
 
