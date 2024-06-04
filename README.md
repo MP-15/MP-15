@@ -2,7 +2,7 @@
 <h3 align="center">Turning ideas into functional solutions with code</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFmNjJiYzg0MWFiYjdjODY1MDFhYTE0ZTQ1OGNiZTJjYTVmZmRlNiZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mp-15&label=Profile%20views&color=0e75b6&style=flat" alt="mp-15" /> </p>
