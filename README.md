@@ -15,7 +15,7 @@
 
 - 👨‍💻 My LinkedIn [https://www.linkedin.com/in/mani-paliwal-699a15206](https://www.linkedin.com/in/mani-paliwal-699a15206)
 
-- 📫 Available For FreeLance Work  
+- 📫 Checkout My Hashnode blogs:[ https://hashnode.com/@Mizzii]  
 
 - 📫 How to reach me **mani.paliwal.orai@gmail.com**
 
