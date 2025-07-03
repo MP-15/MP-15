@@ -40,9 +40,3 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MP-15&count_private=true&show_icons=true&theme=radical" /></p>
 
-<!-- Streak -->
-<h2 align="center">My Github Steaks</h2>
-
-<a align= "center" href="https://github.com/MP-15">
-<p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=MP-15&theme=radical">
-</a></p>
