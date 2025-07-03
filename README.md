@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Domain Integrated Projects**
 
-- 🌱 I’m currently exploring **Web Development and AI/ML**
+- 🌱 I’m currently exploring **Cloud and AI/ML**
 
 - 👨‍💻 My LinkedIn [https://www.linkedin.com/in/mani-paliwal-699a15206](https://www.linkedin.com/in/mani-paliwal-699a15206)
 
